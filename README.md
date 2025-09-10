@@ -24,10 +24,9 @@ This project is part of a Digital Image Processing assignment in Google Colab. T
   - Bilinear: Uses the weighted average of 4 neighboring pixels, giving smoother but slightly blurred results.
   - Bicubic: Uses 16 neighboring pixels with cubic interpolation, resulting in the smoothest and most detailed output.
 
-# References
-  - https://www.geeksforgeeks.org/python/spatial-resolution-down-sampling-and-up-sampling-in-image-processing/ (geeksforgeeks)
-  - https://visionbook.mit.edu/upsamplig_downsampling_2.html (mit.edu)
-
 # Summary
 This code shows how different downsampling and upsampling methods affect image quality. Pooling methods simplify the image differently, between smooth, sharp and balanced. While interpolation methods reconstruct the image with varying levels of smoothness and detail.
 
+# References
+  - https://www.geeksforgeeks.org/python/spatial-resolution-down-sampling-and-up-sampling-in-image-processing/ (geeksforgeeks)
+  - https://visionbook.mit.edu/upsamplig_downsampling_2.html (mit.edu)
